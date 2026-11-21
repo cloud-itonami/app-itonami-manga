@@ -7,4 +7,4 @@
                                 "README.md"
                                 "docs/operator-quickstart.md"
                                 "docs/verify-custody.cljk"
-                                "docs/verify-docs-claims.cljk"]}}
+                                "docs/verify-docs-claims.cljk" "blueprint.edn"]}}
